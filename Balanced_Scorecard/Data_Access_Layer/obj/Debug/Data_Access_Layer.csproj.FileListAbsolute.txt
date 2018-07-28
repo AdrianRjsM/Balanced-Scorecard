@@ -1,0 +1,9 @@
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\bin\Debug\Entities.dll
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\bin\Debug\Entities.pdb
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CopyComplete
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\PC01\Documents\Programación IV\Balanced_Scorecard\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
